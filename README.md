@@ -1,9 +1,11 @@
 # Predicting Bike-Sharing Data [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 <br><br>
-<img src="assets/neural_network.png" width=300px>
 
-**Built with NumPy** 
-<img alt="NumPy" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width=10%>
+<p align="center">
+    <img src="assets/neural_network.png" width=300px>
+<p>
+
+<img alt="NumPy" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width=10%> **Built with NumPy** 
 
 ---
 
