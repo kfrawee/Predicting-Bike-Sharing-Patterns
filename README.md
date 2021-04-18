@@ -5,7 +5,8 @@
     <img src="assets/neural_network.png" width=300px>
 <p>
 
-<img alt="NumPy" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width=10%> **Built with NumPy** 
+<img alt="NumPy" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width=10%><br>
+**Built with NumPy** 
 
 ---
 
@@ -46,10 +47,16 @@ jupyter notebook
 ## C. Results
 ### Training and Validation loss
 After modeling and training the network and tuning the hyper-parameters, we got a `Training loss: 0.073` and a `Validation loss: 0.152`.
-<img src="assets/loss.png" width=80%>
+<br>
+<p align="center">
+    <img src="assets/loss.png" width=80%>
+<p>
 
 ### Checking out predictions
-Here, used the test data to view how well the network is modeling the data.
-<img src="assets/prediction.png" width=80%>
+Here, used the test data to view how well the network is modeling the data:
+<br>
+<p align="center">
+    <img src="assets/prediction.png" width=80%>
+<p>
 
 ---
