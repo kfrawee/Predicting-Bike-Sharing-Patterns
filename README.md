@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="assets/neural_network.png" width=300px>
-<p>
+</p>
 
 <img alt="NumPy" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width=10%><br>
 **Built with NumPy** 
